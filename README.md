@@ -1,2 +1,2 @@
-https://colab.research.google.com/drive/1XhmsQZZKoTlrv_GJyZCB-FAaOY9_miOn#scrollTo=TJilg9FB3ja1
+https://wandb.ai/zahra-norozzadeh/Kaggle%20House%20Prices%20Using%20MLP?workspace=user-zahra-norozzadeh
 https://wandb.ai/zahra-norozzadeh/Titanic?workspace=user-zahra-norozzadeh
